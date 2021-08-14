@@ -1,7 +1,7 @@
 <h1 align="center"> ︵︵︵︵ ˖ ˚ ๑┊Welcome to my GitHub!┊๑  ̊ ˖ ︵︵︵︵ </h1>
 
 
-<img src="https://media.discordapp.net/attachments/719594307086057574/875879071932907550/Venti_Banner.png?width=1440&height=607" alt="venti_banner">
+<img src="https://cdn.discordapp.com/attachments/855873314978529320/875913065739218944/Xiao_Banner.png" alt="venti_banner">
 
 
 <h3>・₊˚┊➤ Pronomes </h3>
