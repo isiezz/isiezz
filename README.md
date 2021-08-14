@@ -10,7 +10,7 @@
 - [x] ele / dele
 
 
-<h3>・₊˚┊➤ <a href="https://www.instagram.com/cath0de_/">Instagram</a> </h3>
+<h3>・₊˚┊➤ <a href="https://www.instagram.com/cathxde/">Instagram</a> </h3>
 Segue lá cheiroso :)
 
 
