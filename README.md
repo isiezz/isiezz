@@ -10,13 +10,11 @@
 - [x] ele / dele
 
 
-<h3>・₊˚┊➤ <a href="https://www.instagram.com/cathxde/">Instagram</a> </h3>
+<h3>・₊˚┊➤ <a href="https://www.instagram.com/lopesii_/">Instagram</a> </h3>
 Segue lá cheiroso :)
 
 
 <h3>・₊˚┊➤ Sobre mim </h3>
-Oii! Seja muito bem-vinde ao meu perfil no GitHub. 
-
-Atualmente estudando Hardware, Software e Design, desde muito jovem tive interesse em tais áreas, sempre buscando aprender mais a respeito da tecnologia e estética no mundo virtual. Espero que goste do meu trabalho!
+Oii! Seja muito bem-vindo/a/e ao meu perfil no GitHub. 
 
 > nunca posto nada, desculpa
